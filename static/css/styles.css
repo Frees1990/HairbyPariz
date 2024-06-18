@@ -7549,7 +7549,9 @@ textarea.form-control-lg {
   margin-top: 1rem !important;
   margin-bottom: 1rem !important;
 }
-
+.botox{
+  border-radius: 8px;
+}
 .my-4 {
   margin-top: 1.5rem !important;
   margin-bottom: 1.5rem !important;
@@ -11212,12 +11214,12 @@ header.masthead {
   text-align: center;
 }
 .team-member img {
-  width: 14rem;
-  height: 14rem;
+  width: 30rem;
+  height: 30rem;
   border: 0.5rem solid rgba(0, 0, 0, 0.1);
 }
 .team-member h4, .team-member .h4 {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   margin-bottom: 0;
 }
 
